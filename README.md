@@ -1,4 +1,4 @@
 # datos
 datosJson
 
-despliegue de archivo json para fakeDB a traves dl servicio de render.com
+despliegue de archivo json para fakeDB a traves del servicio de render.com
